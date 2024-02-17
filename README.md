@@ -32,5 +32,6 @@ This is a simple web-based to-do list application where you can add tasks and ma
 - Background: You can uncomment the background image line in `style.css` and replace `bg2-image.jpg` with your desired image file.
 - Fonts: You can change the font styles in `style.css` by modifying the font-family properties.
 
+## Video
 
-
+https://github.com/JeremiahRanen7/Todo-List/assets/141173239/3863ce2d-1ad2-4ebb-8990-f095b69f3302
